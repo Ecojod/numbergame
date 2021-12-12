@@ -1,0 +1,12 @@
+print ("Think and write a num")
+num = int(input())
+print ("take the same num from someone else")
+num2 = int(input())
+print ("suppose i give u 10, type ok")
+c = str(input())
+print ("now give half of that num to god, type done")
+d = str(input())
+print ("now return the taken num to the person you tooked from, type done")
+e = str(input())
+f = (num+num2+10)/2-num
+print ("your ans is",f)
